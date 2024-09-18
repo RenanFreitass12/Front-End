@@ -9,13 +9,6 @@ body {
     line-height: 1.6;
 }
 
-header {
-    background: #4d7699;
-    color: #fff;
-    padding: 1rem;
-    text-align: center;
-}
-
 nav ul {
     list-style: none;
 }
@@ -41,13 +34,6 @@ main{
 
 .secao2{
     background: #333;
-    color: #fff;
-    text-align: center;
-    padding: 1rem;
-}
-
-footer{
-    background:#333;
     color: #fff;
     text-align: center;
     padding: 1rem;

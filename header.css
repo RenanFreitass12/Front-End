@@ -1,9 +1,15 @@
 :root{
     --cor-do-header:rgb(26.361% 1.7992% 50.038%);
 }
+
 header{
-    background:var(--cor-do-header) ;
+    background: linear-gradient(#FF00ff, #ffbb33);
     color: #fff;
     padding: 1rem;
     text-align: center;
+}
+
+img{
+    width:330px ;
+    height:100px ;
 }
