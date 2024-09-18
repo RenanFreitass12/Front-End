@@ -1,0 +1,9 @@
+:root{
+    --cor-do-footer:#545dff;
+}
+footer{
+    background:var(--cor-do-footer);
+    color: #ffffff;
+    text-align: center;
+    padding: 1rem;
+}
